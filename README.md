@@ -7,5 +7,5 @@
 - 💬 Ask me about anything related Flutter
 - 📫 How to reach me: roshansinghse@gmail.com
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: Play Call of Duty 9 to 12am 😄
+- ⚡ Fun fact: Play Valorant 9 to 12am 😄
 -->
